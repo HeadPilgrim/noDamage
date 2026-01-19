@@ -9,7 +9,7 @@ namespace NoDamage
     {
         public const string PLUGIN_ID = "com.headpilgrim.nodamage";
         public const string PLUGIN_NAME = "No Ship Damage";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.0.1";
 
         private void Awake()
         {
